@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="macos" width="45" height="45"/>
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fmac-os-logo_2235&psig=AOvVaw2ovPwDFmj6K1-qof60tqf3&ust=1664369980753000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMipiL6DtfoCFQAAAAAdAAAAABAD)" alt="git" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2/2235.png" alt="git" width="45" height="45"/>
 </p>
