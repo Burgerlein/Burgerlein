@@ -10,8 +10,8 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burgerlein&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burgerlein&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> 🚀 &nbsp; Some Tools and Coding Languages that i use</h2>
 <p align="left">
