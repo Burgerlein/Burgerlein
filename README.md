@@ -11,6 +11,8 @@
   </h1>
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Burgerlein&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burgerlein&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> 🚀 &nbsp; Some Tools and Coding Languages that i use</h2>
