@@ -28,7 +28,7 @@ Azubi zum Fachinformatiker für Anwendungsentwicklung
 | Projekt | Beschreibung | Status |
 |---|---|---|
 | 💪 GymTracker | iPhone-App für Lauf- und Krafttraining: Trainings-Log, Schlaf und Erholung, Ernährung mit Barcode-Scanner und KI-Fotoschätzung. Die Daten bleiben lokal auf dem Gerät und kommen aus Apple Health. | ![Privat](https://img.shields.io/badge/Repo-privat-lightgrey?logo=github) ![Status](https://img.shields.io/badge/Status-Entwicklung-orange) |
-| 🏠 SmartHomeHUB | Mein Zuhause als Code: Home Assistant mit Automationen, Durchsagen, Info-Displays und eigener Touch-Oberfläche. | ![Privat](https://img.shields.io/badge/Repo-privat-lightgrey?logo=github) ![Status](https://img.shields.io/badge/Status-Entwicklung-orange) |
+| [🏠 SmartHomeHUB](https://github.com/Burgerlein/SmartHomeHub) | Mein Zuhause als Code: Home Assistant mit Automationen, Durchsagen, Info-Displays und eigener Touch-Oberfläche. | ![Privat](https://img.shields.io/badge/Repo-privat-lightgrey?logo=github) ![Status](https://img.shields.io/badge/Status-Entwicklung-orange) |
 
 > Diese Projekte sind noch privat. Ich arbeite daran, dass sie public werden oder eine öffentliche Kopie bekommen und für jeden nutzbar sind. Das steht aber eher weiter hinten auf der To-do-Liste.
 
