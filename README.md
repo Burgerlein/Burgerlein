@@ -21,3 +21,14 @@ Azubi im Bereich Fachinformatiker für Anwendungsentwicklung
 ## 🌱 Aktuell
 
 - 🔭 Ich arbeite gerade an: **Gym / Ernährungstracking APP**
+
+
+## 🔮 Zukunftsprojekte
+
+Ideen und Projekte, die ich gerade plane oder aufbaue. Die Repos sind teils noch leer, dort entsteht bald mehr.
+
+| Projekt | Idee | Status |
+|---|---|---|
+| [🏟️ Kurvenlevel](https://github.com/Burgerlein/Kurvenlevel) | Level- und Bewertungssystem für Fanclub-Mitglieder | 💡 Planung |
+| [🎫 Ground Tracker](https://github.com/Burgerlein/GroundTracker) | Offline-fähiger Tracker für Stadionbesuche, Tickets und Reisekosten | 💡 Planung |
+| [🏠 SmartHomeHUB](https://github.com/Burgerlein/SmartHomeHUB) | Custom-UI für Home Assistant mit 3D-Modell und Stats | 🛠️ In Arbeit |
