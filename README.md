@@ -16,13 +16,15 @@ Azubi im Bereich Fachinformatiker für Anwendungsentwicklung
 
 | Projekt | Beschreibung | Version |
 |---|---|---|
-| [📶 WLAN-Messung](https://github.com/Burgerlein/wlan-messung) | Misst die WLAN-Versorgung einer Wohnung, liest die FRITZ!Box aus und zeigt auf dem Grundriss, wo Videoanrufe abreißen. | [![Release](https://img.shields.io/github/v/release/Burgerlein/wlan-messung?display_name=tag&label=Release&color=blue)](https://github.com/Burgerlein/wlan-messung/releases/latest) |
-| [▶️ YouTube Downloader](https://github.com/Burgerlein/YoutubeDownloader) | Kleines Python-Tool zum Herunterladen von YouTube-Videos | ![Release](https://img.shields.io/github/v/release/Burgerlein/YoutubeDownloader) |
+| [WLAN-Messung](https://github.com/Burgerlein/wlan-messung) | Misst die WLAN-Versorgung einer Wohnung, liest die FRITZ!Box aus und zeigt auf dem Grundriss, wo Videoanrufe abreißen. | [![Release](https://img.shields.io/github/v/release/Burgerlein/wlan-messung?display_name=tag&label=Release&color=blue)](https://github.com/Burgerlein/wlan-messung/releases/latest) |
+| [YouTube Downloader](https://github.com/Burgerlein/YoutubeDownloader) | Kleines Python-Tool zum Herunterladen von YouTube-Videos | ![Release](https://img.shields.io/github/v/release/Burgerlein/YoutubeDownloader) |
 
 ## 🌱 Aktuell
 
-- 🔭 Ich arbeite gerade an einer: **Gym / Ernährungstracking APP**
-
+| Projekt | Beschreibung | Version |
+|----|---|---|
+| GymTracker | iPhone-App für Lauf- und Krafttraining: Trainings-Log, Schlaf und Erholung, Ernährung mit Barcode-Scanner und KI-Fotoschätzung. Die Daten bleiben lokal auf dem Gerät und kommen aus Apple Health. | ![Privat](https://img.shields.io/badge/Repo-privat-lightgrey?logo=github) |
+| SmartHomeHUB | Mein Zuhause als Code: Home Assistant mit Automationen, Durchsagen, Info-Displays und eigener Touch-Oberfläche. | ![Privat](https://img.shields.io/badge/Repo-privat-lightgrey?logo=github) |
 
 ## 🔮 Zukunftsprojekte
 
