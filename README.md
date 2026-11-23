@@ -33,8 +33,8 @@ Ideen und Projekte, die ich gerade plane oder aufbaue. Die Repos sind teils noch
 
 | Projekt | Idee | Status |
 |---|---|---|
-| [🏟️ Kurvenlevel](https://github.com/Burgerlein/Kurvenlevel) | Level- und Bewertungssystem für Fanclub-Mitglieder | 💡 Planung |
-| [🎫 Ground Tracker](https://github.com/Burgerlein/GroundTracker) | Offline-fähiger Tracker für Stadionbesuche, Tickets und Reisekosten | 💡 Planung |
-| [🏠 SmartHomeHUB](https://github.com/Burgerlein/SmartHomeHUB) | Custom-UI für Home Assistant mit 3D-Modell und Stats | 💡 Planung |
 | [🤖 claude-config](https://github.com/Burgerlein/claude-config) | Meine Claude-Config und mein Workflow, als Submodule in Projekten nutzbar | 💡 Planung |
+| [🏟️ Kurvenlevel](https://github.com/Burgerlein/Kurvenlevel) | Level- und Bewertungssystem für Fanclub-Mitglieder | 💡 Planung |
+| [🏠 SmartHomeHUB](https://github.com/Burgerlein/SmartHomeHUB) | Custom-UI für Home Assistant mit 3D-Modell und Stats | 💡 Planung |
 | [📐 Entwurfsboard](https://github.com/Burgerlein/Entwurfsboard) | Figma-Ersatz: alle Screens als Gerätemodelle auf einer Fläche, als Submodule in Projekten nutzbar | 💡 Planung |
+| [🎫 Ground Tracker](https://github.com/Burgerlein/GroundTracker) | Offline-fähiger Tracker für Stadionbesuche, Tickets und Reisekosten | 💡 Planung |
