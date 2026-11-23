@@ -16,7 +16,7 @@ Azubi im Bereich Fachinformatiker für Anwendungsentwicklung
 
 | Projekt | Beschreibung | Version |
 |---|---|---|
-| [📶 WifiOptimizer](https://github.com/Burgerlein/WifiOptimizer) | [Kurzbeschreibung] | ![Release](https://img.shields.io/github/v/release/Burgerlein/WifiOptimizer) |
+| [📶 WLAN-Messung](https://github.com/Burgerlein/wlan-messung) | Misst die WLAN-Versorgung einer Wohnung, liest die FRITZ!Box aus und zeigt auf dem Grundriss, wo Videoanrufe abreißen. | ![Release](https://img.shields.io/github/v/release/Burgerlein/wlan-messung) |
 | [▶️ YouTube Downloader](https://github.com/Burgerlein/YoutubeDownloader) | Kleines Python-Tool zum Herunterladen von YouTube-Videos | ![Release](https://img.shields.io/github/v/release/Burgerlein/YoutubeDownloader) |
 
 ## 🌱 Aktuell
