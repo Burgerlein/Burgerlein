@@ -14,9 +14,10 @@ Azubi im Bereich Fachinformatiker für Anwendungsentwicklung
 
 ## 🚀 Projekte
 
-| Projekt | Beschreibung |
-|---|---|
-| [YouTube Downloader](https://github.com/<username>/<repo>) | Kleines Python-Tool zum Herunterladen von YouTube-Videos |
+| Projekt | Beschreibung | Version |
+|---|---|---|
+| [📶 WifiOptimizer](https://github.com/Burgerlein/WifiOptimizer) | [Kurzbeschreibung] | ![Release](https://img.shields.io/github/v/release/Burgerlein/WifiOptimizer) |
+| [▶️ YouTube Downloader](https://github.com/Burgerlein/<repo>) | Kleines Python-Tool zum Herunterladen von YouTube-Videos | ![Release](https://img.shields.io/github/v/release/Burgerlein/<repo>) |
 
 ## 🌱 Aktuell
 
