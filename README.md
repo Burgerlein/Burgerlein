@@ -9,6 +9,7 @@ Azubi im Bereich Fachinformatiker für Anwendungsentwicklung
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 <!-- Weitere Badges: https://shields.io / https://simpleicons.org -->
 
 ## 🚀 Projekte
