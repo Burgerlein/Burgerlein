@@ -38,3 +38,5 @@ Ideen und Projekte, die ich gerade plane oder aufbaue. Die Repos sind teils noch
 | [🏠 SmartHomeHUB](https://github.com/Burgerlein/SmartHomeHUB) | Custom-UI für Home Assistant mit 3D-Modell und Stats | 💻 Start Development |
 | [📐 Entwurfsboard](https://github.com/Burgerlein/Entwurfsboard) | Figma-Ersatz: alle Screens als Gerätemodelle auf einer Fläche, als Submodule in Projekten nutzbar | 💡 Planung |
 | [🎫 Ground Tracker](https://github.com/Burgerlein/GroundTracker) | Offline-fähiger Tracker für Stadionbesuche, Tickets und Reisekosten | 💡 Planung |
+| SecondBrain | Soll alle infos lokal bei mir zuhause Speicher und auswerten für mich als Iron Man Fan ein 2 Jarvis der mein SmartHome Projekt super nutzen kann | 💡 Planung |
+| TV Custom Startup Screen | Ich will gerne Werbung entfernen und einen Moderen look auf normalen Fernsehern erzeugen mit zugriff auf mein Smarthome Projekt |💡 Planung |
