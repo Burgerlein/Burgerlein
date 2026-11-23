@@ -20,7 +20,7 @@ Azubi im Bereich Fachinformatiker für Anwendungsentwicklung
 
 ## 🌱 Aktuell
 
-- 🔭 Ich arbeite gerade an: **Gym / Ernährungstracking APP**
+- 🔭 Ich arbeite gerade an einer: **Gym / Ernährungstracking APP**
 
 
 ## 🔮 Zukunftsprojekte
