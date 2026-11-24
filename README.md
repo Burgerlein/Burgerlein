@@ -27,7 +27,7 @@ Azubi zum Fachinformatiker für Anwendungsentwicklung
 
 | Projekt | Beschreibung | Status |
 |---|---|---|
-| 💪 GymTracker | iPhone-App für Lauf- und Krafttraining: Trainings-Log, Schlaf und Erholung, Ernährung mit Barcode-Scanner und KI-Fotoschätzung. Die Daten bleiben lokal auf dem Gerät und kommen aus Apple Health. | ![Privat](https://img.shields.io/badge/Repo-privat-lightgrey?logo=github) ![Status](https://img.shields.io/badge/Status-Entwicklung-orange) |
+| [💪 REPIT](https://github.com/Burgerlein/repit) | iPhone-App für Lauf- und Krafttraining: Trainings-Log, Schlaf und Erholung, Ernährung mit Barcode-Scanner und KI-Fotoschätzung. Die Daten bleiben lokal auf dem Gerät und kommen aus Apple Health. | ![Privat](https://img.shields.io/badge/Repo-privat-lightgrey?logo=github) ![Status](https://img.shields.io/badge/Status-Entwicklung-orange) |
 | [🏠 SmartHomeHUB](https://github.com/Burgerlein/SmartHomeHub) | Mein Zuhause als Code: Home Assistant mit Automationen, Durchsagen, Info-Displays und eigener Touch-Oberfläche. | ![Privat](https://img.shields.io/badge/Repo-privat-lightgrey?logo=github) ![Status](https://img.shields.io/badge/Status-Entwicklung-orange) |
 
 > Diese Projekte sind noch privat. Ich arbeite daran, dass sie public werden oder eine öffentliche Kopie bekommen und für jeden nutzbar sind. Das steht aber eher weiter hinten auf der To-do-Liste.
@@ -48,4 +48,4 @@ Ideen und Projekte, die ich gerade plane oder aufbaue. Die Repos sind teils noch
 | [🐾 PawTrack](https://github.com/Burgerlein/PawTrack) | Haustier-Tracker fürs Smarthome: Halsband-Tracker zeigt Bewegung, Strecke und Lieblingsplätze, optional mit Kamera | ![Status](https://img.shields.io/badge/Status-Idee-lightgrey) |
 | [👕 OutfitPilot](https://github.com/Burgerlein/OutfitPilot) | Outfit-Vorschläge nach Terminen und Wetter, Kofferplanung für Urlaube, Kaufempfehlungen, Smarthome-Anbindung | ![Status](https://img.shields.io/badge/Status-Idee-lightgrey) |
 | [🧊 FridgeWatch](https://github.com/Burgerlein/FridgeWatch) | „What's in my fridge“-Add-on fürs Smarthome: Vorrat, Verbrauch und Ablaufdaten im Blick | ![Status](https://img.shields.io/badge/Status-Idee-lightgrey) |
-| [💪 GymTracker: Rezepte & Einkauf](https://github.com/Burgerlein/GymTracker) | Rezepte per TikTok-Reel-Share einbinden, Einkaufsliste greift auf FridgeWatch zu | ![Status](https://img.shields.io/badge/Status-Idee-lightgrey) |
+| [💪 REPIT: Rezepte & Einkauf](https://github.com/Burgerlein/repit) | Rezepte per TikTok-Reel-Share einbinden, Einkaufsliste greift auf FridgeWatch zu | ![Status](https://img.shields.io/badge/Status-Idee-lightgrey) |
